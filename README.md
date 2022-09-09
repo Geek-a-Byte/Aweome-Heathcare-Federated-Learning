@@ -20,9 +20,6 @@ Federated learning, a mechanism of training a shared global model with a central
 
 ## Papers
 
-- **Systematic Review of Privacy-Preserving Distributed Machine Learning From Federated Databases in Health Care** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7113079/) 
-
 - **Privacy-first health research with federated learning** 
   - [[Paper]](https://www.medrxiv.org/content/10.1101/2020.12.22.20245407v1.full-text) 
 
