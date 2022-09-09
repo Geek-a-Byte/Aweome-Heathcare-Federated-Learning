@@ -47,59 +47,29 @@ Federated learning, a mechanism of training a shared global model with a central
 - **Joint Imaging Platform for Federated Clinical Data Analytics**
   - [[Paper]](https://ascopubs.org/doi/10.1200/CCI.20.00045?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&) 
 
-- **Federated Learning used for predicting outcomes in SARS-COV-2 patients** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7805458/)
-
 - **Federated learning in medicine: facilitating multi-institutional collaborations without sharing patient data** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7387485/) 
-
-- **Security and privacy requirements for a multi-institutional cancer research data grid: an interview-based study** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2709611/) 
 
 - **Federated learning of predictive models from federated Electronic Health Records** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836813/)
 
 - **Balancing Accuracy and Privacy in Federated Queries of Clinical Data Repositories: Algorithm Development and Validation** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/mc/articles/PMC7671849/) 
-
-- **A collaborative framework for Distributed Privacy-Preserving Support Vector Machine learning** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3540462/) 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/mc/articles/PMC7671849/)
 
 - **Privacy-Preserving Deep Learning for the Detection of Protected Health Information in Real-World Data: Comparative Evaluation** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7238077/) 
-
-- **A review on the state-of-the-art privacy-preserving approaches in the e-health clouds** 
-  - [[Paper]](https://silo.tips/download/a-review-on-the-state-of-the-art-privacy-preserving-approaches-in-the-e-health-c) 
-
-- **eHealth Cloud Security Challenges: A Survey** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6745146/) 
-
-- **Infrastructure and distributed learning methodology for privacy-preserving multi-centric rapid learning health care: euroCAT** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5833935/) 
-
-- **Developing and Validating a Survival Prediction Model for NSCLC Patients Through Distributed Learning Across 3 Countries** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5575360/) 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7238077/)
 
 - **Distributed learning: Developing a predictive model based on data from multiple hospitals without data leaving the hospital - A real life proof of concept** 
   - [[Paper]](https://www.thegreenjournal.com/article/S0167-8140(16)34336-5/fulltext) 
 
-- **How Should Health Data Be Used?** 
-  - [[Paper]](https://bioethics.yale.edu/sites/default/files/files/ISPS14-025.pdf) 
-
 - **Data-driven modeling and prediction of blood glucose dynamics: Machine learning applications in type 1 diabetes** 
-  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0933365717306218?via%3Dihub) 
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0933365717306218?via%3Dihub)
 
-- **Building machine learning models without sharing patient data: A simulation-based analysis of distributed learning by ensembling** 
-  - [[Paper]](https://sci-hub.mksa.top/10.1016/j.jbi.2020.103424) 
-
-- **A comparative evaluation of the generalised predictive ability of eight machine learning algorithms across ten clinical metabolomics data sets for binary classification** 
+- **A comparative evaluation of the generalised predictive ability of eight machine learning algorithms across ten clinical metabolomics data sets for binary classification**
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6856029/) 
 
 - **Multi-center machine learning in imaging psychiatry: A meta-model approach** 
-  - [[Paper]](https://sci-hub.mksa.top/10.1016/j.neuroimage.2017.03.027) 
-
-- **A comparison of machine learning methods for classification using simulation with multiple real data examples from mental health studies** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5081132/) 
+  - [[Paper]](https://sci-hub.mksa.top/10.1016/j.neuroimage.2017.03.027)
 
 - **Distributed deep learning networks among institutions for medical imaging** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6077811/) 
@@ -108,55 +78,28 @@ Federated learning, a mechanism of training a shared global model with a central
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7382618/) 
 
 - **WebDISCO: a web service for distributed cox model learning without patient-level data sharing** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009917/) 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009917/)
 
 - **Differentially Private Distributed Online Learning** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6764830/) 
 
-- **An Uplink Communication-Efficient Approach to Featurewise Distributed Sparse Optimization With Differential Privacy** 
-  - [[Paper]](https://sci-hub.mksa.top/10.1109/tnnls.2020.3020955) 
-
 - **A Comprehensive Comparison of Multiparty Secure Additions with Differential Privacy** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5598559/) 
-
-- **Secure Multiparty Quantum Computation for Summation and Multiplication** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4726197/) 
-
-- **Hybrid Quantum Protocols for Secure Multiparty Summation and Multiplication** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7272455/) 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5598559/)
 
 - **A blockchain-based scheme for privacy-preserving and secure sharing of medical data** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7462555/) 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7462555/)
 
 - **Cost-Efficient and Multi-Functional Secure Aggregation in Large Scale Distributed Application** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4994945/) 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4994945/)
 
 - **Privacy-Enhanced and Multifunctional Health Data Aggregation under Differential Privacy Guarantees** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5038741/) 
-
-- **Security issues in healthcare applications using wireless medical sensor networks: a survey** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3279202/) 
-
-- **A secure distributed logistic regression protocol for the detection of rare adverse drug events** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3628043/) 
-
-- **High performance logistic regression for privacy-preserving genome analysis** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7818577/) 
-
-- **Efficient Privacy-Preserving Access Control Scheme in Electronic Health Records System** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210245/) 
-
-- **Privacy-Preserving Analysis of Distributed Biomedical Data: Designing Efficient and Secure Multiparty Computations Using Distributed Statistical Learning Theory** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6658266/) 
 
 - **Learning from electronic health records across multiple sites: A communication-efficient and privacy-preserving distributed algorithm** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025371/) 
 
 - **DPSynthesizer: Differentially Private Data Synthesizer for Privacy Preserving Data Sharing** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26167358/) 
-
-- **A flexible approach to distributed data anonymization** 
-  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1532046413001937?via%3Dihub) 
 
 - **Privacy-preserving data cube for electronic medical records: An experimental evaluation** 
   - [[Paper]](https://sci-hub.mksa.top/10.1016/j.ijmedinf.2016.09.008) 
@@ -410,9 +353,6 @@ Federated learning, a mechanism of training a shared global model with a central
 - **Federated queries of clinical data repositories: the sum of the parts does not equal the whole** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3715334/) 
 
-- **FL-QSAR: a federated learning based QSAR prototype for collaborative drug discovery** 
-  - [[Paper]](https://www.biorxiv.org/content/10.1101/2020.02.27.950592v1.full) 
-
 - **Averaging Is Probably Not the Optimum Way of Aggregating Parameters in Federated Learning** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7516771/) 
 
@@ -496,9 +436,6 @@ Federated learning, a mechanism of training a shared global model with a central
 
 - **FLBench: A Benchmark Suite for Federated Learning** 
   - [[Paper]](https://arxiv.org/pdf/2008.07257.pdf) 
-
-- **FedMood:Federated Learning on Mobile Health Data for Mood Detection** 
-  - [[Paper]](https://arxiv.org/pdf/2102.09342.pdf) 
 
 - **FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space** 
   - [[Paper]](https://arxiv.org/pdf/2103.06030.pdf) 
