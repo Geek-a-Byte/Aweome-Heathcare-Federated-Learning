@@ -20,29 +20,11 @@ Federated learning, a mechanism of training a shared global model with a central
 
 ## Papers
 
-- **Federated Learning of Electronic Health Records Improves Mortality Prediction in Patients Hospitalized with COVID-19** 
-  - [[Paper]](https://www.medrxiv.org/content/10.1101/2020.08.11.20172809v1.full-text) 
-
-- **Patch-Based Surface Morphometry Feature Selection with Federated Group Lasso Regression** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7694696/) 
-
 - **Federated semi-supervised learning for COVID region segmentation in chest CT using multi-national data from China, Italy, Japan** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7864789/) 
 
-- **Predicting Adverse Drug Reactions on Distributed Health Data using Federated Learning** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153050/) 
-
-- **Federated electronic health records research technology to support clinical trial protocol optimization: Evidence from EHR4CR and the InSite platform** 
-  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1532046418302314?via%3Dihub) 
-
-- **Probabilistic Predictions with Federated Learning** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7823259/) 
-
 - **Using federated data sources and Varian Learning Portal framework to train a neural network model for automatic organ segmentation** 
-  - [[Paper]](https://www.physicamedica.com/article/S1120-1797(20)30065-X/fulltext) 
-
-- **Lazily Aggregated Quantized Gradient Innovation for Communication-Efficient Federated Learning** 
-  - [[Paper]](https://papers.nips.cc/paper/2018/file/feecee9f1643651799ede2740927317a-Paper.pdf) 
+  - [[Paper]](https://www.physicamedica.com/article/S1120-1797(20)30065-X/fulltext)
 
 - **Privacy-preserving model learning on a blockchain network-of-networks** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025358/) 
@@ -54,34 +36,19 @@ Federated learning, a mechanism of training a shared global model with a central
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7725426/) 
 
 - **Privacy-Preserving in Healthcare Blockchain Systems Based on Lightweight Message Sharing** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7180853/) 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7180853/)
 
 - **MedBlock: Efficient and Secure Medical Data Sharing Via Blockchain** 
-  - [[Paper]](https://link.springer.com/article/10.1007%2Fs10916-018-0993-7) 
+  - [[Paper]](https://link.springer.com/article/10.1007%2Fs10916-018-0993-7)
 
 - **Blockchain distributed ledger technologies for biomedical and health care applications** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6080687/) 
- 
-- **Real-Time Electronic Health Record Mortality Prediction During the COVID-19 Pandemic: A Prospective Cohort Study** 
-  - [[Paper]](https://www.medrxiv.org/content/10.1101/2021.01.14.21249793v1.full-text) 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6080687/)
 
-- **Joint Imaging Platform for Federated Clinical Data Analytics** 
+- **Joint Imaging Platform for Federated Clinical Data Analytics**
   - [[Paper]](https://ascopubs.org/doi/10.1200/CCI.20.00045?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&) 
 
-- **Federated Transfer Learning for EEG Signal Classification** 
-  - [[Paper]](https://arxiv.org/pdf/2004.12321.pdf) 
-
 - **Federated Learning used for predicting outcomes in SARS-COV-2 patients** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7805458/) 
-
-- **Large-Scale Water Quality Prediction Using Federated Sensing and Learning: A Case Study with Real-World Sensing Big-Data** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7923429/) 
-
-- **Federated Learning of Electronic Health Records to Improve Mortality Prediction in Hospitalized Patients With COVID-19: Machine Learning Approach** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7842859/) 
-
-- **Multi-site fMRI analysis using privacy-preserving federated learning and domain adaptation: ABIDE results** 
-  - [[Paper]](https://reader.elsevier.com/reader/sd/pii/S1361841520301298?token=49EC74DDB6FB2CAE2701353194B68C2D3ED8687C6D0C7674CCAFE61148A2E304204AF7863116946239671695D825D2C4) 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7805458/)
 
 - **Federated learning in medicine: facilitating multi-institutional collaborations without sharing patient data** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7387485/) 
@@ -90,13 +57,7 @@ Federated learning, a mechanism of training a shared global model with a central
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2709611/) 
 
 - **Federated learning of predictive models from federated Electronic Health Records** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836813/) 
-
-- **Creating a data exchange strategy for radherapy research: towards federated databases and anonymised public datasets** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4648243/) 
-
-- **Stochastic Channel-Based Federated Learning With Neural Network Pruning for Medical Data Privacy Preservation: Model Development and Experimental Validation** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7909896/) 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836813/)
 
 - **Balancing Accuracy and Privacy in Federated Queries of Clinical Data Repositories: Algorithm Development and Validation** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/mc/articles/PMC7671849/) 
