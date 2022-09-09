@@ -110,24 +110,6 @@ Federated learning, a mechanism of training a shared global model with a central
 - **Secure and scalable deduplication of horizontally partitioned health data for privacy-preserving distributed statistical computation** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5209873/) 
 
-- **Design and implementation of a privacy preserving electronic health record linkage tool in Chicago** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009931/) 
-
-- **Privacy preserving interactive record linkage (PPIRL)** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3932473/) 
-
-- **Privacy-preserving record linkage in large databases using secure multiparty computation** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6180364/) 
-
-- **Sample Complexity Bounds for Differentially Private Learning** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183222/) 
-
-- **Convergence Rates for Differentially Private Statistical Estimation** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4188376/) 
-
-- **Efficient differentially private learning improves drug sensitivity prediction** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5801888/) 
-
 - **A Comprehensive Survey on Local Differential Privacy toward Data Statistics and Analysis** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7763193/) 
 
@@ -822,16 +804,13 @@ Federated learning, a mechanism of training a shared global model with a central
   - [[Paper]](https://arxiv.org/pdf/2002.05516.pdf) 
 
 - **Think Locally, Act Globally: Federated Learning with Local and Global Representations** 
-  - [[Paper]](https://arxiv.org/pdf/2001.01523.pdf) 
+  - [[Paper]](https://arxiv.org/pdf/2001.01523.pdf)
 
 - **Inverting Gradients - How easy is it to break privacy in federated learning?** 
   - [[Paper]](https://arxiv.org/pdf/2003.14053.pdf) 
 
 - **A Framework for Evaluating Gradient Leakage Attacks in Federated Learning** 
   - [[Paper]](https://arxiv.org/pdf/2004.10397.pdf) 
-
-- **Multi-site fMRI analysis using privacy-preserving federated learning and domain adaptation: ABIDE results** 
-  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841520301298?via%3Dihub) 
 
 - **Federated learning in medicine: facilitating multi‑institutional collaborations without sharing patient data** 
   - [[Paper]](https://www.nature.com/articles/s41598-020-69250-1.pdf) 
@@ -842,11 +821,7 @@ Federated learning, a mechanism of training a shared global model with a central
 - **Experiments of Federated Learning for COVID-19 Chest X-ray Images** 
   - [[Paper]](https://arxiv.org/pdf/2007.05592.pdf) 
 
-- **Multi-Center Federated Learning** 
-  - [[Paper]](https://arxiv.org/pdf/2005.01026.pdf) 
   
-- **VANTAGE6: an open source priVAcy preserviNg federaTed leArninG infrastructurE for Secure Insight eXchange**
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075508/)
   
   
 ## Datasets
