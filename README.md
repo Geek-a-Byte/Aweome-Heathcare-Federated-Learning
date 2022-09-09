@@ -41,12 +41,6 @@ Federated learning, a mechanism of training a shared global model with a central
 - **Using federated data sources and Varian Learning Portal framework to train a neural network model for automatic organ segmentation** 
   - [[Paper]](https://www.physicamedica.com/article/S1120-1797(20)30065-X/fulltext) 
 
-- **Open-Source Federated Learning Frameworks for IoT: A Comparative Review and Analysis** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7794892/) 
-
-- **Federated Reinforcement Learning for Training Control Policies on Multiple IoT Devices** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7085801/) 
-
 - **Lazily Aggregated Quantized Gradient Innovation for Communication-Efficient Federated Learning** 
   - [[Paper]](https://papers.nips.cc/paper/2018/file/feecee9f1643651799ede2740927317a-Paper.pdf) 
 
@@ -67,10 +61,7 @@ Federated learning, a mechanism of training a shared global model with a central
 
 - **Blockchain distributed ledger technologies for biomedical and health care applications** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6080687/) 
-
-- **A Decentralized Privacy-Preserving Healthcare Blockchain for IoT** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6359727/) 
-
+ 
 - **Real-Time Electronic Health Record Mortality Prediction During the COVID-19 Pandemic: A Prospective Cohort Study** 
   - [[Paper]](https://www.medrxiv.org/content/10.1101/2021.01.14.21249793v1.full-text) 
 
@@ -101,14 +92,14 @@ Federated learning, a mechanism of training a shared global model with a central
 - **Federated learning of predictive models from federated Electronic Health Records** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836813/) 
 
-- **Creating a data exchange strategy for radiotherapy research: towards federated databases and anonymised public datasets** 
+- **Creating a data exchange strategy for radherapy research: towards federated databases and anonymised public datasets** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4648243/) 
 
 - **Stochastic Channel-Based Federated Learning With Neural Network Pruning for Medical Data Privacy Preservation: Model Development and Experimental Validation** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7909896/) 
 
 - **Balancing Accuracy and Privacy in Federated Queries of Clinical Data Repositories: Algorithm Development and Validation** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7671849/) 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/mc/articles/PMC7671849/) 
 
 - **A collaborative framework for Distributed Privacy-Preserving Support Vector Machine learning** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3540462/) 
@@ -621,10 +612,7 @@ Federated learning, a mechanism of training a shared global model with a central
   - [[Paper]](https://arxiv.org/pdf/2102.00880.pdf) 
 
 - **Dopamine: Differentially Private Federated Learning on Medical Data** 
-  - [[Paper]](https://arxiv.org/pdf/2101.11693.pdf) 
-
-- **Federated Intrusion Detection for IoT with Heterogeneous Cohort Privacy** 
-  - [[Paper]](https://arxiv.org/pdf/2101.09878.pdf) 
+  - [[Paper]](https://arxiv.org/pdf/2101.11693.pdf)
 
 - **Collaborative Federated Learning For Healthcare: Multi-Modal COVID-19 Diagnosis at the Edge** 
   - [[Paper]](https://arxiv.org/pdf/2101.07511.pdf) 
@@ -670,9 +658,6 @@ Federated learning, a mechanism of training a shared global model with a central
 
 - **A Federated Learning Framework for Privacy-preserving and Parallel Training** 
   - [[Paper]](https://arxiv.org/pdf/2001.09782.pdf) 
-
-- **A Federated Learning Framework for Healthcare IoT devices** 
-  - [[Paper]](https://arxiv.org/pdf/2005.05083.pdf) 
 
 - **FedNER: Privacy-preserving Medical Named Entity Recognition with Federated Learning** 
   - [[Paper]](https://arxiv.org/pdf/2003.09288.pdf) 
@@ -792,13 +777,7 @@ Federated learning, a mechanism of training a shared global model with a central
   - [[Paper]](https://arxiv.org/pdf/1902.01046.pdf) 
 
 - **A Systematic Literature Review on Federated Machine Learning: From A Software Engineering Perspective** 
-  - [[Paper]](https://arxiv.org/pdf/2007.11354.pdf) 
-
-- **Privacy-preserving Federated Deep Learning for Wearable IoT-based Biomedical Monitoring** 
-  - [[Paper]](https://dl.acm.org/doi/10.1145/3428152) 
-
-- **A Federated Learning Framework for Healthcare IoT devices** 
-  - [[Paper]](https://arxiv.org/pdf/2005.05083.pdf) 
+  - [[Paper]](https://arxiv.org/pdf/2007.11354.pdf)
 
 - **A Systematic Literature Review on Federated Learning: From A Model Quality Perspective** 
   - [[Paper]](https://arxiv.org/pdf/2012.01973.pdf) 
