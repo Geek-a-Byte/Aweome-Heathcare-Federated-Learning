@@ -782,17 +782,8 @@ Federated learning, a mechanism of training a shared global model with a central
 - **Confederated learning in healthcare: training machine learning models using disconnected data separated by individual, data type and identity for Large-Scale Health System Intelligence** 
   - [[Paper]](https://arxiv.org/pdf/1910.02109.pdf)
 
-- **Towards a Keyword Extraction in Medical and Healthcare Education** 
-  - [[Paper]](https://annals-csis.org/proceedings/2017/drp/pdf/351.pdf) 
-
-- **SCOR: A secure international informatics infrastructure to investigate COVID-19** 
-  - [[Paper]](https://academic.oup.com/jamia/article/27/11/1721/5869802) 
-
 - **From the Data on Many, Precision Medicine for “One”: The Case for Widespread Genomic Data Sharing** 
-  - [[Paper]](https://karger.com/Article/FullText/481682) 
-
-- **Federated Learning in Mobile Edge Networks: A Comprehensive Survey** 
-  - [[Paper]](https://arxiv.org/pdf/1909.11875.pdf) 
+  - [[Paper]](https://karger.com/Article/FullText/481682)
 
 - **DBA: Distributed Backdoor Attacks against Federated Learning** 
   - [[Paper]](https://openreview.net/forum?id=rkgyS0VFvr) 
