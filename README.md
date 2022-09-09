@@ -22,28 +22,25 @@ Federated learning, a mechanism of training a shared global model with a central
 
 ## Papers
 
-- **Federated learning for healthcare informatics**
+- [x] **Federated learning for healthcare informatics**
   - Jie Xu, Benjamin S. Glicksberg, Chang Su, Peter Walker, Jiang Bian, Fei Wang
   - [[Paper]](https://arxiv.org/abs/1911.06270)
   
-- **The future of digital health with federated learning**
+- [x] **The future of digital health with federated learning**
   - Nicola Rieke
   - [[Paper]](https://www.nature.com/articles/s41746-020-00323-1)
 
-- **Federated Learning for Healthcare Domain - Pipeline, Applications and Challenges**
+- [x] **Federated Learning for Healthcare Domain - Pipeline, Applications and Challenges**
   - Madhura Joshi , Ankit Pal , Malaikannan Sankarasubbu
   - [[Paper]](https://dl.acm.org/doi/10.1145/3533708)
   
-- **Federated Learning on Clinical Benchmark Data: Performance Assessment**
+- [x] **Federated Learning on Clinical Benchmark Data: Performance Assessment**
   - Geun Hyeong Lee and Soo-Yong Shin
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7652692/)
   
-- **Secure and Robust Machine Learning for Health Care**
+- [x] **Secure and Robust Machine Learning for Health Care**
   - Adnan Qayyum, Junaid Qadir, Muhammad Bilal, Ala Al-Fuqaha
   - [[Paper]](https://arxiv.org/abs/2001.08103)
-  
-- **Federated Learning for Healthcare Informatics1** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7659898/) 
 
 - **AI in Health: State of the Art, Challenges, and Future Directions** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31419814/) 
