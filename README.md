@@ -20,9 +20,6 @@ Federated learning, a mechanism of training a shared global model with a central
 
 ## Papers
 
-- **Privacy-first health research with federated learning** 
-  - [[Paper]](https://www.medrxiv.org/content/10.1101/2020.12.22.20245407v1.full-text) 
-
 - **Federated Learning of Electronic Health Records Improves Mortality Prediction in Patients Hospitalized with COVID-19** 
   - [[Paper]](https://www.medrxiv.org/content/10.1101/2020.08.11.20172809v1.full-text) 
 
@@ -920,14 +917,11 @@ Federated learning, a mechanism of training a shared global model with a central
 - **Communication Efficient Federated Generalized Tensor Factorization for Collaborative Health Data Analytics** 
   - [[Paper]](https://pdfs.semanticscholar.org/cd55/5d2586e893f6e90d02ba38e6f4b88611d060.pdf?_ga=2.132743822.128127665.1616063254-2119887776.1616063254) 
 
-- **A Smart Biometric Identity Management Framework for Personalised IoT and Cloud Computing-Based Healthcare Services** 
-  - [[Paper]](https://www.mdpi.com/1424-8220/21/2/552) 
-
 - **The Evolution of a Healthcare Software Framework: Reuse, Evaluation and Lessons Learned** 
   - [[Paper]](https://annals-csis.org/proceedings/2018/drp/pdf/173.pdf) 
 
 - **Confederated learning in healthcare: training machine learning models using disconnected data separated by individual, data type and identity for Large-Scale Health System Intelligence** 
-  - [[Paper]](https://arxiv.org/pdf/1910.02109.pdf) 
+  - [[Paper]](https://arxiv.org/pdf/1910.02109.pdf)
 
 - **Towards a Keyword Extraction in Medical and Healthcare Education** 
   - [[Paper]](https://annals-csis.org/proceedings/2017/drp/pdf/351.pdf) 
@@ -973,18 +967,11 @@ Federated learning, a mechanism of training a shared global model with a central
 
 - **Multi-Center Federated Learning** 
   - [[Paper]](https://arxiv.org/pdf/2005.01026.pdf) 
-
-- **Federated Learning for Internet of Things: Recent Advances, Taxonomy, and Open Challenges** 
-  - [[Paper]](https://arxiv.org/pdf/2009.13012.pdf) 
   
 - **VANTAGE6: an open source priVAcy preserviNg federaTed leArninG infrastructurE for Secure Insight eXchange**
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075508/)
   
-
-
-
-
-
+  
 ## Datasets
 
 - **Federated Learning framework to preserve privacy**
