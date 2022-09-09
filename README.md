@@ -810,10 +810,7 @@ Federated learning, a mechanism of training a shared global model with a central
   - [[Paper]](https://arxiv.org/pdf/2007.06537.pdf) 
 
 - **Experiments of Federated Learning for COVID-19 Chest X-ray Images** 
-  - [[Paper]](https://arxiv.org/pdf/2007.05592.pdf) 
-
-  
-  
+  - [[Paper]](https://arxiv.org/pdf/2007.05592.pdf)   
   
 ## Datasets
 
